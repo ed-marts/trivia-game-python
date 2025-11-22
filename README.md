@@ -18,15 +18,15 @@ Run:
 python trivia_game.py
 
 Features - 
-Random question selection
-Real-time score updating
-Custom question sets
-Uses simple loops, lists, and conditionals
+Random question selection,
+Real-time score updating,
+Custom question sets,
+Uses simple loops, lists, and conditionals,
 
 Purpose -
 This project is meant to show my early Python learning journey.
 
 Future Improvements -
-Save custom questions to a file
-Add difficulty levels
+Save custom questions to a file,
+Add difficulty levels,
 GUI version using Tkinter or HTML/CSS/JS
